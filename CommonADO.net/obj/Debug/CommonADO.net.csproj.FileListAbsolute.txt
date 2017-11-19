@@ -1,0 +1,6 @@
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\CommonADO.net\CommonADO.net\bin\Debug\CommonADO.net.dll
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\CommonADO.net\CommonADO.net\bin\Debug\CommonADO.net.pdb
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\CommonADO.net\CommonADO.net\obj\Debug\CommonADO.net.csprojResolveAssemblyReference.cache
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\CommonADO.net\CommonADO.net\obj\Debug\CommonADO.net.csproj.CoreCompileInputs.cache
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\CommonADO.net\CommonADO.net\obj\Debug\CommonADO.net.dll
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\CommonADO.net\CommonADO.net\obj\Debug\CommonADO.net.pdb
